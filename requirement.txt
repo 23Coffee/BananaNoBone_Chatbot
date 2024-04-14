@@ -1,0 +1,7 @@
+streamlit
+openai
+llama-index
+pathlib
+nltk
+llama-index-readers-file
+python-dotenv
